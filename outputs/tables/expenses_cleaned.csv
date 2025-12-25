@@ -1,0 +1,91 @@
+date,description,category,amount,year_month
+2025-01-02,Coffee,Food,3.5,2025-01
+2025-01-03,Bus ticket,Transport,2.75,2025-01
+2025-01-04,Groceries,Food,45.2,2025-01
+2025-01-06,Lunch,Food,9.8,2025-01
+2025-01-07,Gas,Transport,40.0,2025-01
+2025-01-10,Electricity bill,Utilities,52.3,2025-01
+2025-01-12,Internet bill,Utilities,29.99,2025-01
+2025-01-14,Movie night,Entertainment,12.0,2025-01
+2025-01-16,Pharmacy,Health,18.5,2025-01
+2025-01-18,Dinner out,Entertainment,26.4,2025-01
+2025-01-20,Groceries,Food,48.9,2025-01
+2025-01-22,Coffee,Food,3.7,2025-01
+2025-01-25,Bus pass,Transport,30.0,2025-01
+2025-01-27,Streaming subscription,Entertainment,12.99,2025-01
+2025-01-30,Rent,Rent,650.0,2025-01
+2025-02-01,Rent,Rent,650.0,2025-02
+2025-02-02,Coffee,Food,3.6,2025-02
+2025-02-04,Groceries,Food,44.1,2025-02
+2025-02-05,Lunch,Food,10.2,2025-02
+2025-02-07,Gas,Transport,42.5,2025-02
+2025-02-09,Electricity bill,Utilities,48.7,2025-02
+2025-02-11,Internet bill,Utilities,29.99,2025-02
+2025-02-13,Doctor visit,Health,45.0,2025-02
+2025-02-15,Movie night,Entertainment,11.5,2025-02
+2025-02-17,Coffee,Food,3.8,2025-02
+2025-02-18,Groceries,Food,50.3,2025-02
+2025-02-20,Bus ticket,Transport,2.75,2025-02
+2025-02-23,Pharmacy,Health,14.2,2025-02
+2025-02-26,Dinner out,Entertainment,32.0,2025-02
+2025-02-28,Concert ticket,Entertainment,55.0,2025-02
+2025-03-01,Rent,Rent,650.0,2025-03
+2025-03-02,Coffee,Food,3.5,2025-03
+2025-03-04,Groceries,Food,46.8,2025-03
+2025-03-05,Lunch,Food,9.9,2025-03
+2025-03-07,Gas,Transport,41.0,2025-03
+2025-03-09,Electricity bill,Utilities,53.1,2025-03
+2025-03-11,Internet bill,Utilities,29.99,2025-03
+2025-03-13,Streaming subscription,Entertainment,12.99,2025-03
+2025-03-15,Pharmacy,Health,19.8,2025-03
+2025-03-17,Dinner out,Entertainment,28.5,2025-03
+2025-03-18,Coffee,Food,3.6,2025-03
+2025-03-20,Groceries,Food,52.4,2025-03
+2025-03-22,Bus pass,Transport,30.0,2025-03
+2025-03-25,Doctor visit,Health,60.0,2025-03
+2025-03-28,Movie night,Entertainment,12.0,2025-03
+2025-04-01,Rent,Rent,650.0,2025-04
+2025-04-02,Coffee,Food,3.7,2025-04
+2025-04-04,Groceries,Food,49.6,2025-04
+2025-04-06,Lunch,Food,10.1,2025-04
+2025-04-08,Gas,Transport,39.9,2025-04
+2025-04-10,Electricity bill,Utilities,51.4,2025-04
+2025-04-12,Internet bill,Utilities,29.99,2025-04
+2025-04-14,Pharmacy,Health,22.0,2025-04
+2025-04-16,Dinner out,Entertainment,30.0,2025-04
+2025-04-18,Coffee,Food,3.8,2025-04
+2025-04-20,Groceries,Food,47.3,2025-04
+2025-04-22,Bus ticket,Transport,2.75,2025-04
+2025-04-24,Streaming subscription,Entertainment,12.99,2025-04
+2025-04-26,Doctor visit,Health,40.0,2025-04
+2025-04-29,Concert ticket,Entertainment,60.0,2025-04
+2025-05-01,Rent,Rent,650.0,2025-05
+2025-05-02,Coffee,Food,3.6,2025-05
+2025-05-04,Groceries,Food,50.1,2025-05
+2025-05-06,Lunch,Food,9.7,2025-05
+2025-05-08,Gas,Transport,43.2,2025-05
+2025-05-10,Electricity bill,Utilities,49.9,2025-05
+2025-05-12,Internet bill,Utilities,29.99,2025-05
+2025-05-14,Pharmacy,Health,16.4,2025-05
+2025-05-16,Dinner out,Entertainment,27.8,2025-05
+2025-05-18,Coffee,Food,3.7,2025-05
+2025-05-20,Groceries,Food,53.6,2025-05
+2025-05-22,Bus pass,Transport,30.0,2025-05
+2025-05-24,Doctor visit,Health,55.0,2025-05
+2025-05-26,Movie night,Entertainment,12.0,2025-05
+2025-05-29,Streaming subscription,Entertainment,12.99,2025-05
+2025-06-01,Rent,Rent,650.0,2025-06
+2025-06-02,Coffee,Food,3.8,2025-06
+2025-06-04,Groceries,Food,48.9,2025-06
+2025-06-06,Lunch,Food,10.3,2025-06
+2025-06-08,Gas,Transport,44.0,2025-06
+2025-06-10,Electricity bill,Utilities,50.8,2025-06
+2025-06-12,Internet bill,Utilities,29.99,2025-06
+2025-06-14,Pharmacy,Health,20.6,2025-06
+2025-06-16,Dinner out,Entertainment,31.2,2025-06
+2025-06-18,Coffee,Food,3.9,2025-06
+2025-06-20,Groceries,Food,55.4,2025-06
+2025-06-22,Bus ticket,Transport,2.75,2025-06
+2025-06-24,Doctor visit,Health,65.0,2025-06
+2025-06-26,Concert ticket,Entertainment,58.0,2025-06
+2025-06-29,Movie night,Entertainment,12.0,2025-06
